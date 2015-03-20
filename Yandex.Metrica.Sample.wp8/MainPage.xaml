@@ -49,6 +49,9 @@
                 Click="OnCrash"
                 Content="Crash" />
         </StackPanel>
+        <Button
+        	Click= "OnUpdateAPIKey"
+        	Content="Update API Key" Margin="12,455,12,80" Grid.Row="1" />
     </Grid>
 
 </phone:PhoneApplicationPage>

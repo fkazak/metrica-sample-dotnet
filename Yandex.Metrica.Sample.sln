@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yandex.Metrica.Sample.wp8", "Yandex.Metrica.Sample.wp8\Yandex.Metrica.Sample.wp8.csproj", "{647690FD-7154-4EB0-9136-3598B47545A8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yandex.Metrica.Sample.wp7", "Yandex.Metrica.Sample.wp7\Yandex.Metrica.Sample.wp7.csproj", "{E315C0ED-66C4-458D-B875-17522BE0B36D}"

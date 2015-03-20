@@ -15,8 +15,8 @@
             Enter your ApiKey here
             1111 is ApiKey for Yandex.Metrica for Apps sample
             -->
-        <metrica:CounterBootstrapper
-            x:Key="CounterBootstrapper"
+        <metrica:Bootstrapper
+            x:Key="Bootstrapper"
             ApiKey="1111" />
 
     </Application.Resources>
